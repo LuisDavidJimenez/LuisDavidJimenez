@@ -40,28 +40,18 @@
  
 </div>
 
-## 📊 Github
+## 📊 Estadisticas en Github 💻
 	
 ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
 
-
-<details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
-	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Estadisticas de Luis David Jimenez en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
-</details>
 
-<details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
-<div>
-  <p align="center">
-	<a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
+<p align="center">
+  <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" /></a>
+</p>
 
 ----
