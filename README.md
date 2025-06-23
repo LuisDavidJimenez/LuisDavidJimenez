@@ -7,7 +7,7 @@
 
 ----
 
-## <p align="center"> <b>🛠️ Habilidades </b> </p>
+## <p align="center"> 🛠️ Habilidades </p>
 
 <p align="center">
     
