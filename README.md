@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-red" />
 </p>
 
-----
-
 ## <p align="center"> 🛠️ Habilidades </p>
 
 <p align="center">
