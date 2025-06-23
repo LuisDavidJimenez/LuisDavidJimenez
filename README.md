@@ -31,9 +31,9 @@
 </div>
 
 ----
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,7 +42,7 @@
 <br/>
 </details>
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
 <div>
   <p align="center">
 	<a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto">
