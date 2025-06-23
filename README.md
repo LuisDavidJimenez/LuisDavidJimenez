@@ -1,8 +1,9 @@
 
 <h1 align="center"><b>Hola a todos,  Soy Luis David Jimenez Iglesias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-brightgreen" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-green" />
+</p>
 ## <b>🛠️ Habilidades </b>
 
 <p align="center">
