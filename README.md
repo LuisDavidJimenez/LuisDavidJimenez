@@ -42,7 +42,7 @@
 
 ## 📊 Github
 
-<div style="heigth=100px">
+<div heigth="100px">
 	
   ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
 
