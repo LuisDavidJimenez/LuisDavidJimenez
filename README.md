@@ -42,9 +42,12 @@
 
 ## 📊 Github
 
-<div style="width=100px">
+<div style="heigth=100px">
+	
   ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
+
 </div>
+
 <details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
 	
 <p align="center">
