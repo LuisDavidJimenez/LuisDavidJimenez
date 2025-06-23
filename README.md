@@ -31,9 +31,11 @@
 </div>
 
 ----
-## 
-<div style="display:flex; justify-content=center; align:center;">
-  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github
+## <div style="display: flex; flex-direction: row; align-items: center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" />
+  </picture>
+      <span>Github</span>
 </div>
 
 <details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
