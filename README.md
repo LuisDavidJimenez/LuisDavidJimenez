@@ -32,11 +32,25 @@
 
 ## 
 
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
+
+##
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Estadisticas de Luis David Jimenez en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
