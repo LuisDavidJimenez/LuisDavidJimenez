@@ -32,12 +32,6 @@
 
 ## 
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-##
-
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
@@ -48,7 +42,9 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 </details>
-	
+
+----
+
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
