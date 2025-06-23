@@ -50,7 +50,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 	
-#### 📈 Activity Graph
+#### 📈 Grafico de Actividad
 ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
 
 ## 📂 Proyectos
