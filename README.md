@@ -32,7 +32,7 @@
 <br>
 <div align=center>
 <picture>
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" heigth="100px">
 </picture>
 
 <br>
