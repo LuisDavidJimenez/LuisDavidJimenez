@@ -30,9 +30,8 @@
   <a href="mailto:jimeneziglesiasd@gmail.com?subject=Hola Luis David, Encantado de conocerte!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
-## 
-
 ----
+
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 	
 <p align="center">
@@ -51,4 +50,5 @@
   </p>
 </div>
 </details>
+
 ----
