@@ -30,7 +30,15 @@
   <a href="mailto:jimeneziglesiasd@gmail.com?subject=Hola Luis David, Encantado de conocerte!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
-## <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+## 
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+<br/>
+	
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/Udemy-Website">
