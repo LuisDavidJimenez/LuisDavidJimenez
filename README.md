@@ -9,7 +9,7 @@
 
 <p align="center">
     
-#### Lenguajes Front-End
+#### 📚 Lenguajes Front-End
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
@@ -40,9 +40,9 @@
  
 </div>
 
-## 💻 Github
+## 📊 Github
 
-<details><summary><h3>🏆 Estadisticas de mi perfil en GitHub</h3></summary>
+<details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
