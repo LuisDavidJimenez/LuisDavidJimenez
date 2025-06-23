@@ -34,15 +34,15 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="Estadisticas de Luis David Jimenez en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
