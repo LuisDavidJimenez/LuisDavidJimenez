@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hola a todos,  Soy Luis David Jimenez Iglesias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-green" />
+  <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-red" />
 </p>
 
 ## <b>🛠️ Habilidades </b>
@@ -42,6 +42,9 @@
 
 ## 📊 Github
 
+<div style="width=100px">
+  ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
+</div>
 <details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
 	
 <p align="center">
@@ -60,8 +63,5 @@
   </p>
 </div>
 </details>
-
-![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
-
 
 ----
