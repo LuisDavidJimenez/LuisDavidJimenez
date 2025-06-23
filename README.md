@@ -53,8 +53,8 @@
 #### 📈 Gráfico de Actividad
 ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=react-dark)
 
-<details>
-## 📂 Proyectos
+
+## <details> 📂 Proyectos
 <p>
   <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" /></a>
 </p>
