@@ -27,5 +27,5 @@
 <br>
 <div align=center>
   <a href="https://www.linkedin.com/in/luis-david-jimenez-iglesias-02aba029a/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:jimeneziglesiasd@gmail.com?subject=Hola Luis David, encantado de conocerte!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="mailto:jimeneziglesiasd@gmail.com?subject=Hola Luis David, Encantado de conocerte!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
