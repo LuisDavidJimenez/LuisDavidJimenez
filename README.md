@@ -31,6 +31,7 @@
 </div>
 
 ----
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 	
