@@ -19,7 +19,7 @@
 
 #### 🖥️ Frameworks
   ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  [![Astro](https://astro.badg.es/v2/astro/small.svg)](https://astro.build)
+  ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) 
   
 #### 🔧 Softwares and Tools
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
