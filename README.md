@@ -32,7 +32,7 @@
 
 ## 💻 Github
 
-<details><summary><h3>💻 Estadisticas de mi perfil en GitHub</h3></summary>
+<details><summary><h3>🏆 Estadisticas de mi perfil en GitHub</h3></summary>
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
