@@ -62,7 +62,7 @@
 
 ## 📂 Proyectos
 
-<div style="display:flex;justify-content: center;">
+<div style="justify-content: center;">
   <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" /></a>
   <a href="https://github.com/LuisDavidJimenez/portfolio-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=portfolio-javascript&theme=tokyonight" alt="GitHub Stats" /></a>
 </div>
