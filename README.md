@@ -51,7 +51,7 @@
 
 <div display="flex" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Estadisticas en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact&hide=issues" width="600px"/></a>
+  <img alt="Estadisticas en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact&hide=issues" width="500px"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=es&theme=outrun"  width="300px"/>
 </div>
 <br/>
