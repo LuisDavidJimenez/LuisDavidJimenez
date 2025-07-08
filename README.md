@@ -1,19 +1,24 @@
 
 <h1 align="center"><b>Hola a todos,  Soy Luis David Jimenez Iglesias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-red" />
-</p>
+</div>
 
-## <h1 align="center"> 🛠️ Sobre mí </h1>
+<h1 align="center"> 🛠️ Sobre mí </h1>
 
-Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el aprendizaje continuo.  
+👨‍💻 Desarrollador Full Stack en formación. <br>
+👨‍💻 Programador y Administrador de Bases de Datos en entornos Oracle. <br>
+👥 Disfruto trabajar en equipo, aprender nuevas tecnologías y mejorar mis habilidades día a día. <br>
+⚙️ Buscando oportunidades profesionales en el mundo del Desarrollo Web. <br>
+🏀 Fuera del código, me encanta el baloncesto, un deporte que me ha enseñado disciplina y trabajo en equipo. <br>
+
+Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el aprendizaje continuo.
 Actualmente estoy realizando una formación intensiva sobre el desarrollo web en la prestigiosa empresa de estudios **[NEOLAND](https://neoland.es/)**.
-
 
 ----
 
-## <h1 align="center"> 🛠️ Habilidades </h1>
+<h1 align="center"> 🛠️ Habilidades </h1>
 
 <p align="center">
     
@@ -58,7 +63,7 @@ Actualmente estoy realizando una formación intensiva sobre el desarrollo web en
 
 ----
 
-## <h1 align="center"> 📊 Estadisticas en Github 💻 </h1>
+<h1 align="center"> 📊 Estadisticas en Github 💻 </h1>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -70,8 +75,9 @@ Actualmente estoy realizando una formación intensiva sobre el desarrollo web en
 #### <h3> 📈 Gráfico de Actividad </h3>
 ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=github-compact)
 
+<h3> 📂 Proyectos </h3>
 
-## <h3> 📂 Proyectos </h3>
+<br>
 
 <div align="center">
   <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" /></a>
