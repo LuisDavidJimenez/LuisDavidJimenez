@@ -5,11 +5,19 @@
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-red" />
 </p>
 
-## <p align="center"> 🛠️ Habilidades </p>
+## <h1 align="center"> 🛠️ Sobre mí </h1>
+
+Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el aprendizaje continuo.  
+Actualmente estoy realizando una formación intensiva sobre el desarrollo web en la prestigiosa empresa de estudios **[NEOLAND](https://neoland.es/)**.
+
+
+----
+
+## <h1 align="center"> 🛠️ Habilidades </h1>
 
 <p align="center">
     
-#### 📚 Lenguajes Front-End & Back-End
+#### <h3> 📚 Lenguajes Front-End & Back-End </h3>
   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
@@ -19,13 +27,13 @@
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🖥️ Frameworks / Plataformas / Librerias
+#### <h3> 🖥️ Frameworks / Plataformas / Librerias </h3>
   ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   
-#### 🔧 Softwares / Herramientas
+#### <h3> 🔧 Softwares / Herramientas </h3>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -50,7 +58,7 @@
 
 ----
 
-## <p align="center"> 📊 Estadisticas en Github 💻 </p>
+## <h1 align="center"> 📊 Estadisticas en Github 💻 </h1>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -59,11 +67,11 @@
 </div>
 <br/>
 	
-#### 📈 Gráfico de Actividad
+#### <h3> 📈 Gráfico de Actividad </h3>
 ![Luis David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisDavidJimenez&theme=github-compact)
 
 
-## 📂 Proyectos
+## <h3> 📂 Proyectos </h3>
 
 <div align="center">
   <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" /></a>
