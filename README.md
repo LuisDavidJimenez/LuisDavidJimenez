@@ -60,9 +60,19 @@ Actualmente estoy realizando una formación intensiva sobre el desarrollo web en
    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" heigth="100px">
  </picture>
 
- <br>
- <a href="https://www.linkedin.com/in/luis-david-jimenez-iglesias-02aba029a/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Luis%20David%20Jimenez%20Iglesias&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/></a>
- <a href="mailto:jimeneziglesiasd@gmail.com?subject=Hola Luis David, Encantado de conocerte!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=jimeneziglesiasd@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<br>
+
+<a href="mailto:jimeneziglesiasd@gmail.com?subject=Hola Luis David, Encantado de conocerte!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=jimeneziglesiasd@gmail.com&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+
+<div>
+  <a href="https://www.linkedin.com/in/luis-david-jimenez-iglesias-02aba029a/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/luis-david-jimenez-iglesias-02aba029a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Luis%20David%20Jimenez%20Iglesias&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn"/>
+  </a>
+</div>
  
 </div>
 
