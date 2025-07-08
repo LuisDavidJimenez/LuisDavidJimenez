@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-red" />
 </div>
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
+
 <h1 align="center"> 🛠️ Sobre mí </h1>
 
 👨‍💻 Desarrollador Full Stack en formación. <br>
@@ -12,6 +16,7 @@
 👥 Disfruto trabajar en equipo, aprender nuevas tecnologías y mejorar mis habilidades día a día. <br>
 ⚙️ Buscando oportunidades profesionales en el mundo del Desarrollo Web. <br>
 🏀 Fuera del código, me encanta el baloncesto, un deporte que me ha enseñado disciplina y trabajo en equipo. <br>
+🎮 También disfruto mucho de los videojuegos, una forma de desconectar y divertirme.
 
 Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el aprendizaje continuo.
 Actualmente estoy realizando una formación intensiva sobre el desarrollo web en la prestigiosa empresa de estudios **[NEOLAND](https://neoland.es/)**.
