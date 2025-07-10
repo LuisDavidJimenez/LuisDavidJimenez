@@ -98,7 +98,7 @@ Actualmente estoy realizando una formación intensiva sobre el desarrollo web en
   <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" width="360px"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/LuisDavidJimenez/portfolio-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=portfolio-javascript&theme=tokyonight" alt="GitHub Stats" width="360px"/></a>
-  &nbsp;&nbsp;&nbsp;
+  <br>
   <a href="https://github.com/LuisDavidJimenez/ApiDiccionario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=ApiDiccionario&theme=tokyonight" alt="GitHub Stats" width="360px"/></a>
 </div>
 
