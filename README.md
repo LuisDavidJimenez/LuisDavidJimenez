@@ -82,8 +82,8 @@ Actualmente estoy realizando una formación intensiva sobre el desarrollo web en
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Estadisticas en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact&hide=issues" width="540px"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=es&theme=outrun"  width="290px"/>
+  <img alt="Estadisticas en Github" src="https://github-readme-stats.vercel.app/api?username=LuisDavidJimenez&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact&hide=issues" width="520px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisDavidJimenez&langs_count=10&show_icons=true&locale=es&theme=outrun" width="270px"/>
 </div>
 <br/>
 	
@@ -95,9 +95,9 @@ Actualmente estoy realizando una formación intensiva sobre el desarrollo web en
 <br>
 
 <div align="center">
-  <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" /></a>
+  <a href="https://github.com/LuisDavidJimenez/mi-primer-proyecto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=mi-primer-proyecto&theme=tokyonight" alt="GitHub Stats" width="270px"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/LuisDavidJimenez/portfolio-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=portfolio-javascript&theme=tokyonight" alt="GitHub Stats" /></a>
+  <a href="https://github.com/LuisDavidJimenez/portfolio-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDavidJimenez&repo=portfolio-javascript&theme=tokyonight" alt="GitHub Stats" width="270px"/></a>
 </div>
 
 ----
